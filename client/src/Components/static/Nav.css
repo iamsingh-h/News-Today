@@ -1,0 +1,21 @@
+.nav-ul{
+    width: 100%;
+    background-color: rgba(7, 7, 86, 0.932);
+    display: flex;
+}
+ul{
+    display: flex;    
+}
+li{  
+    display: block;   
+    font-size:20px;    
+    font-weight: bold;
+    padding: 0px 54px;
+   
+    
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+}  
