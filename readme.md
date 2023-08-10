@@ -1,5 +1,5 @@
 # Clone the repo
-$ git clone https://github.com/iamsingh-h/News-Today/new/main
+$ git clone https://github.com/iamsingh-h/News-Today/
 
 # Go to client 
 $ cd client
